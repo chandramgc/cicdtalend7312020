@@ -15,6 +15,7 @@
     <module>jobs/routes/demo_api_0.1</module>
     <module>jobs/process/simple_0.1</module>
     <module>jobs/routes/demo_soap_0.1</module>
+    <module>jobs/routes/sampleapi_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
