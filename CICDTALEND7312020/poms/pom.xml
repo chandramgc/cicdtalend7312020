@@ -10,7 +10,6 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>jobs/process/simple_0.1</module>
-    <module>jobs/routes/demo_api_0.1</module>
     <module>jobs/routes/demo_soap_0.1</module>
     <module>jobs/routes/simple_route_0.1</module>
     <module>jobs/routes/sampleapi_0.1</module>
